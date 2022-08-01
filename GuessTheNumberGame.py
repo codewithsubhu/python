@@ -1,4 +1,4 @@
-#Guess The Number Game by Nischal Dhakal
+#Guess The Number Game by Subhadra Lamichhane
 
 import random  # Import the random module
 from turtle import delay  # Import the delay module
